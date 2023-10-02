@@ -1,0 +1,57 @@
+[
+    {
+      "titulo": "Dog Chow(P/raza Adulto) x 21kg",
+      
+      "imagen": "images/alem1.1.jpg",
+      "descripcion": "Alimento 100% completo y balanceado para perros Adultos de todos las tamaños con baja actividad física o con tendencia a ganancia de peso corporal.",
+      "precio": 30500,
+      "id": 1,
+      "calificacion": ""
+    },
+    {
+      "titulo": "Purina ProPlan (P/razas pequeñas) x 8kg ",
+      
+      "imagen": "images/alem1.2.jpg",
+      "descripcion": "Provee nutrición de avanzada que ayuda a los perros de razas medianas de 1 a 7 años de edad a mantenerse fuertes y llenos de vitalidad. Con carne de pollo como ingrediente #1, fuente de proteína de alto valor biológico y elevada digestibilidad que entrega un óptimo nivel de nutrientes de manera eficaz.Con Optihealth. Tecnología exclusiva compuesto por una mezcla de nutrientes que incluye spirulina, una microalga natural con beneficiosas propiedades para la salud general de los perros, cuya eficacia ha sido científicamente probada.",
+      "precio": 12350,
+      "id": 2,
+      "calificacion": ""
+    },
+    {
+      "titulo": "Royal Canin Pupy(P/cachorros)x 3kg",
+      
+      "imagen": "images/alem1.3.jpg",
+      "descripcion": "Alimento balanceado completo para perras y cachorros de talla mediana (de 11 a 25 kg). Perras: fase final de gestación y período de lactancia. Cachorros: destete a 2 meses de edad.Ver puntos de venta",
+      "precio": 2300,
+      "id": 3,
+      "calificacion": ""
+    },
+    {
+      "titulo": "Galleta Dr.Zoo x 250 grs",
+      
+      "imagen": "images/images1.6.jpg",
+      "descripcion": "Los Bocaditos Dr. Zoo son el snack preferido de tu mascota, por su agradable sabor y componentes de alta calidad que satisfacen el paladar de tu perro.Son ideales para complementar una dieta nutritiva.Son sabrosos y pueden comerlos diariamente.",
+      "precio": 850,
+      "id": 4,
+      "calificacion": ""
+    },
+    {
+      "titulo":"Shampoo y acondicionador",
+      
+      "imagen": "images/images1.7.jpg",
+      "descripcion": "Está especialmente formulado para perros, gatos y cualquier mascota con piel muy sensible. No contiene perfumes, colorantes ni ningún otro agente que pueda provocar irritaciones o alergias. Contiene aloe vera, emolientes y acondicionadores especiales que aumentan la vitalidad del pelaje, previenen la sequedad y facilitan el cepillado. Deja el pelaje muy suave, brilloso y fácil de cepillar.",
+      "precio": 4890,
+      "id": 5,
+      "calificacion": ""
+    },
+    {
+      "titulo": "Cepillo",
+      
+      "imagen": "images/images1.8.jpg",
+      "descripcion": "Este tipo de cepillos para perros es el idóneo para canes de pelo largo pero, también, para aquellos sensibles al cepillado. También nos ayudan a eliminar con facilidad el polvo y la suciedad. Importante asegurarnos siempre de que las puntas sean redondeadas.",
+      "precio": 1500,
+      "id": 6,
+      "calificacion": ""
+    }
+  ]
+  
